@@ -1,6 +1,9 @@
 # 🕵️ MR. SHERLOCK
 ## The Ultimate AI Detective & Universal Investigation Intelligence
 
+**Created by:** PT. Agra Karya Digital (VeryCoolApps)  
+**Repository:** [github.com/verycoolapps/Mr.-Sherlock](https://github.com/verycoolapps/Mr.-Sherlock)
+
 > **Every mystery has clues. Every clue has context. Every theory deserves scrutiny. Every conclusion must answer to evidence.**
 
 ---
@@ -501,6 +504,9 @@ INTELLIGENCE IS THE METHOD.
 
 # 🕵️ MR. SHERLOCK
 ## Sang Detektif AI Ultimate & Sistem Intelijen Investigasi Universal
+
+**Pencipta:** PT. Agra Karya Digital (VeryCoolApps)  
+**Repositori:** [github.com/verycoolapps/Mr.-Sherlock](https://github.com/verycoolapps/Mr.-Sherlock)
 
 > **Setiap misteri memiliki petunjuk. Setiap petunjuk memiliki konteks. Setiap teori layak diperiksa. Setiap kesimpulan harus menjawab kepada bukti.**
 
